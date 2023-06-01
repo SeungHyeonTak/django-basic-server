@@ -1,3 +1,9 @@
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+
+![Python badge](https://img.shields.io/badge/Python-3.9%2B-green)
+![Django badge](https://img.shields.io/badge/Django-4.2%2B-green)
+
 ## Prerequisite
 + python >= 3.9
 + Django >= 4.2
